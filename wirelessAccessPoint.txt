@@ -1,0 +1,27 @@
+[connection]
+id= ******** # SSID of the device
+uuid=d78865bb-43d1-4696-b5fe-04e907fd7f15
+type=wifi
+interface-name=wlan0
+permissions=
+
+[wifi]
+band=bg
+mac-address=00:04:4B:C4:E0:F2
+mac-address-blacklist=
+mode=ap
+ssid=  ******** # SSID of the device
+
+[wifi-security]
+key-mgmt=wpa-psk
+psk=  ******** # PASSWORD of the device
+
+[ipv4]
+dns-search=
+method=shared
+
+[ipv6]
+addr-gen-mode=stable-privacy
+dns-search=
+ip6-privacy=0
+method=ignore
