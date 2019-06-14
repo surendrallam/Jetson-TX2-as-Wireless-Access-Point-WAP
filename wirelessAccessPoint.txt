@@ -1,3 +1,4 @@
+# cd /etc/NetworkManager/system-connections
 [connection]
 id= ******** # SSID of the device
 uuid=d78865bb-43d1-4696-b5fe-04e907fd7f15
