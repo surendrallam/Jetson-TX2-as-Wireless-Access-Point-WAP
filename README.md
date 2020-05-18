@@ -11,7 +11,8 @@ options bcmdhd op_mode=2
 Have to change the settings as below.
 # Connections > Edit Connections > 
 # Follow the next steps as per the screenchots on /surendrasafepro/TX2-as-Wireless-Access-Point-WAP-/Screenshots folder.
-https://github.com/surendrallam/TX2-as-Wireless-Access-Point-WAP/blob/master/Screenshots/1.png
+![Step: 1](https://github.com/surendrallam/TX2-as-Wireless-Access-Point-WAP/blob/master/Screenshots/1.png)
+
 
 
 # Step: 3
