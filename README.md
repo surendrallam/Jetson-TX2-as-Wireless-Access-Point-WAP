@@ -12,6 +12,13 @@ Have to change the settings as below.
 # Connections > Edit Connections > 
 # Follow the next steps as per the screenchots on /surendrasafepro/TX2-as-Wireless-Access-Point-WAP-/Screenshots folder.
 ![Step: 1](https://github.com/surendrallam/TX2-as-Wireless-Access-Point-WAP/blob/master/Screenshots/1.png)
+![Step: 2](https://github.com/surendrallam/TX2-as-Wireless-Access-Point-WAP/blob/master/Screenshots/2.png)
+![Step: 3](https://github.com/surendrallam/TX2-as-Wireless-Access-Point-WAP/blob/master/Screenshots/3.png)
+![Step: 4](https://github.com/surendrallam/TX2-as-Wireless-Access-Point-WAP/blob/master/Screenshots/4.png)
+![Step: 5](https://github.com/surendrallam/TX2-as-Wireless-Access-Point-WAP/blob/master/Screenshots/5.png)
+![Step: 6](https://github.com/surendrallam/TX2-as-Wireless-Access-Point-WAP/blob/master/Screenshots/6.png)
+![Step: 7](https://github.com/surendrallam/TX2-as-Wireless-Access-Point-WAP/blob/master/Screenshots/7.png)
+![Step: 8](https://github.com/surendrallam/TX2-as-Wireless-Access-Point-WAP/blob/master/Screenshots/8.png)
 
 
 
